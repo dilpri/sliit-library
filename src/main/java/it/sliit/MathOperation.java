@@ -20,4 +20,8 @@ public class MathOperation {
         return no1 / no2;
     }
 
+    public static int multiply(int a, int b){
+        return  a * b;
+    }
+
 }
