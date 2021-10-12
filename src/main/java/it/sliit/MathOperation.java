@@ -15,4 +15,9 @@ public class MathOperation {
         return operand1 - operand2;
     }
 
+    public static double divide(double no1, double no2)
+    {
+        return no1 / no2;
+    }
+
 }
