@@ -15,4 +15,8 @@ public class MathOperation {
         return operand1 - operand2;
     }
 
+    public static int sqrt(int n){
+        return  n^2;
+    }
+
 }
